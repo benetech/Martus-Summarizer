@@ -1,0 +1,1318 @@
+<MartusBulletins>
+<MartusBulletinExportFormatVersion>2</MartusBulletinExportFormatVersion>
+<ExportMetaData>
+<PublicAndPrivateData></PublicAndPrivateData>
+</ExportMetaData>
+
+<MartusBulletin>
+<BulletinMetaData>
+<AuthorAccountId>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrC2mAAC1jcNWCfyeKFfnZaIpXs1MmpJGEBpaJq095Jc1unoq01dYhSQHDbx9oCs4RsQy/AoKXn2UGNuRdPce1jghYHaqynl4cWrtupoBIjbbVBHdytClUihMwrz6cGV3iLnsUCCf2e7g6W5gq4MEHLpSgjzZazj7LqMgsv6GwIDikiwNSy0Gwc6sjelMxOUFupQZNs+ngsrZdQt8G0Mz9yBbgb5kDNawkVqHgaHZrRrSgn0Wsb2GxceWTBJHa8ZHO9S66NqwDyjz8rOFxorUsiKJ6aAR6TT9VG+5cEMzqYvtQhWuUQSsGn8kDuDk2+vCRkS9mkEXUSTA39LP3r8IQIDAQAB</AuthorAccountId>
+<BulletinLocalId>B-vol5eEIa4k2Tn4slXnT96A--</BulletinLocalId>
+<BulletinLastSavedDateTime>1225172300706</BulletinLastSavedDateTime>
+<LocalizedBulletinLastSavedDateTime>10/27/2008 22:38</LocalizedBulletinLastSavedDateTime>
+<AllPrivate></AllPrivate>
+<BulletinStatus>sealed</BulletinStatus>
+<LocalizedBulletinStatus>Sealed</LocalizedBulletinStatus>
+<BulletinVersion>1</BulletinVersion>
+<ExtendedHistory>
+</ExtendedHistory>
+</BulletinMetaData>
+<MainFieldSpecs>
+<Field type='LANGUAGE'>
+<Tag>language</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>author</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>organization</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>title</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>location</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>keywords</Tag>
+<Label></Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>eventdate</Tag>
+<Label></Label>
+</Field>
+<Field type='DATE'>
+<Tag>entrydate</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>summary</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>publicinfo</Tag>
+<Label></Label>
+</Field>
+</MainFieldSpecs>
+
+<PrivateFieldSpecs>
+<Field type='MULTILINE'>
+<Tag>privateinfo</Tag>
+<Label></Label>
+</Field>
+</PrivateFieldSpecs>
+
+<FieldValues>
+<Field tag='language'>
+<Value>en</Value>
+</Field>
+<Field tag='author'>
+<Value>Central office human rights monitor</Value>
+</Field>
+<Field tag='organization'>
+<Value>Human Rights NGO</Value>
+</Field>
+<Field tag='title'>
+<Value>Journalist jailed</Value>
+</Field>
+<Field tag='location'>
+<Value>Baghdad</Value>
+</Field>
+<Field tag='keywords'>
+<Value>journalist, freedom of the press, unlawful detention</Value>
+</Field>
+<Field tag='eventdate'>
+<Value>Range:2002-10-01,2002-10-01</Value>
+</Field>
+<Field tag='entrydate'>
+<Value>Simple:2008-10-27</Value>
+</Field>
+<Field tag='summary'>
+<Value>A journalist was jailed this month for reporting on the government&#39;s latest law restricting the work of human rights groups. </Value>
+</Field>
+<Field tag='publicinfo'>
+<Value>Paste transcript of newspaper article and testimony by victim. </Value>
+</Field>
+<TopAttachmentList>
+<Attachment>
+<Filename>Iqbal-Aziz-Interview-2008-10-08.txt</Filename>
+</Attachment>
+<Attachment>
+<Filename>Iqbal-Aziz-Detention-Photo-2008-10-07.txt</Filename>
+</Attachment>
+</TopAttachmentList>
+<Field tag='privateinfo'>
+<Value></Value>
+</Field>
+</FieldValues>
+</MartusBulletin>
+
+<MartusBulletin>
+<BulletinMetaData>
+<AuthorAccountId>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrC2mAAC1jcNWCfyeKFfnZaIpXs1MmpJGEBpaJq095Jc1unoq01dYhSQHDbx9oCs4RsQy/AoKXn2UGNuRdPce1jghYHaqynl4cWrtupoBIjbbVBHdytClUihMwrz6cGV3iLnsUCCf2e7g6W5gq4MEHLpSgjzZazj7LqMgsv6GwIDikiwNSy0Gwc6sjelMxOUFupQZNs+ngsrZdQt8G0Mz9yBbgb5kDNawkVqHgaHZrRrSgn0Wsb2GxceWTBJHa8ZHO9S66NqwDyjz8rOFxorUsiKJ6aAR6TT9VG+5cEMzqYvtQhWuUQSsGn8kDuDk2+vCRkS9mkEXUSTA39LP3r8IQIDAQAB</AuthorAccountId>
+<BulletinLocalId>B-9bsYk2GAeDmVrt8wF8jRUA--</BulletinLocalId>
+<BulletinLastSavedDateTime>1225171751637</BulletinLastSavedDateTime>
+<LocalizedBulletinLastSavedDateTime>10/27/2008 22:29</LocalizedBulletinLastSavedDateTime>
+<AllPrivate></AllPrivate>
+<BulletinStatus>sealed</BulletinStatus>
+<LocalizedBulletinStatus>Sealed</LocalizedBulletinStatus>
+<BulletinVersion>1</BulletinVersion>
+<ExtendedHistory>
+</ExtendedHistory>
+</BulletinMetaData>
+<MainFieldSpecs>
+<Field type='SECTION'>
+<Tag>AdministrativeInformation</Tag>
+<Label>Administrative Case Information</Label>
+</Field>
+<Field type='DROPDOWN'>
+<Tag>FollowUpUrgency</Tag>
+<Label>Urgency of Case Follow-up:</Label>
+<RequiredField/>
+<Choices>
+<Choice></Choice>
+<Choice>Low</Choice>
+<Choice>Medium</Choice>
+<Choice>High</Choice>
+<Choice>Urgent</Choice>
+<Choice>Extremely Urgent</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Field>
+<Field type='STRING'>
+<Tag>IfUrgencyOther</Tag>
+<Label>If Urgency = “Other”, please specify.</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>AdvocacyUse</Tag>
+<Label>Is this case to be used in advocacy?</Label>
+</Field>
+<Field type='LANGUAGE'>
+<Tag>language</Tag>
+<Label></Label>
+</Field>
+<Field type='SECTION'>
+<Tag>GeneralCaseInformation</Tag>
+<Label>General Case Information</Label>
+</Field>
+<Field type='STRING'>
+<Tag>author</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>organization</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>title</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>location</Tag>
+<Label></Label>
+</Field>
+<Field type='MESSAGE'>
+<Tag>ThemesInstructions</Tag>
+<Label>Themes/Keywords Instructions:</Label>
+<Message>Please list any keywords or themes relevant to this case. For example, you can mention violation types present in this incident report here, in an anonymized way, such as "Unlawful detention, battery and killing of civilian", without mention the identities of the victims that they happened to.</Message>
+</Field>
+<Field type='STRING'>
+<Tag>keywords</Tag>
+<Label></Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>eventdate</Tag>
+<Label></Label>
+</Field>
+<Field type='DATE'>
+<Tag>entrydate</Tag>
+<Label></Label>
+</Field>
+<Field type='MESSAGE'>
+<Tag>ResearchTeamInstruction</Tag>
+<Label>Research Team Instructions:</Label>
+<Message>Please note the names of all researchers involved in gathering the case information in this bulletin.</Message>
+</Field>
+<Field type='GRID'>
+<Tag>ResearcherInfo</Tag>
+<Label>Research Team Information:</Label>
+<GridSpecDetails>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>First Name</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Last Name</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Province</Label>
+</Column>
+<Column type='DATERANGE'>
+<Tag></Tag>
+<Label>Dates Involved</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MESSAGE'>
+<Tag>ChallengesInstructions</Tag>
+<Label>Challenges Instructions:</Label>
+<Message>Please list any challenges the research team faced in collecting this information.</Message>
+</Field>
+<Field type='MULTILINE'>
+<Tag>ChallengesInfo</Tag>
+<Label>Challenges:</Label>
+</Field>
+<Field type='SECTION'>
+<Tag>CaseSummaryDetailSection</Tag>
+<Label>Case Summary and Details Section</Label>
+</Field>
+<Field type='MESSAGE'>
+<Tag>CaseSummaryDetailsInstructions</Tag>
+<Label>Case Summary and Details Instructions:</Label>
+<Message>In “Case Summary”, please summarize the key incident(s) of the case. In “Case Details” please provide as much as detail as possible. For example, under “Case Details” you may want to paste the transcript of the interview.  If you have scanned documents you can also include them as attachments below.</Message>
+</Field>
+<Field type='STRING'>
+<Tag>IncidentSummary</Tag>
+<Label>Case Summary:</Label>
+<RequiredField/>
+</Field>
+<Field type='MULTILINE'>
+<Tag>IncidentDetails</Tag>
+<Label>Case Details:</Label>
+</Field>
+<Field type='SECTION'>
+<Tag>SourceSection</Tag>
+<Label>Source of Information Section</Label>
+</Field>
+<Field type='DROPDOWN'>
+<Tag>BulletinSource</Tag>
+<Label>Source of bulletin information:</Label>
+<RequiredField/>
+<Choices>
+<Choice></Choice>
+<Choice>Personal Interview (e.g. with victims, family members, witnesses, perpetrators or other relevant parties)</Choice>
+<Choice>Media/Press (e.g. from newspapers, magazines, news agencies)</Choice>
+<Choice>Legal Report</Choice>
+<Choice>Police Report</Choice>
+<Choice>Reports published by local/national NGOs</Choice>
+<Choice>Reports published by regional/international NGOs</Choice>
+<Choice>Other Official Records</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Field>
+<Field type='STRING'>
+<Tag>SourceSpecifyOther</Tag>
+<Label>If Source = “Other”, please specify:</Label>
+</Field>
+<Field type='MESSAGE'>
+<Tag>AdditionalSourceInformation</Tag>
+<Label>Additional Source Information: </Label>
+<Message>If source is listed as “Personal Interview”, fill out all fields pertaining to the interviewee/interview in the “Personal Interview Section” below. Otherwise, please fill out the field “Bibliographic Information” with all appropriate reference information for the source document.</Message>
+</Field>
+<Field type='MULTILINE'>
+<Tag>BibliographicInformation</Tag>
+<Label>Bibliographic Information:</Label>
+</Field>
+<Field type='SECTION'>
+<Tag>InterviewSection</Tag>
+<Label>Personal Interview Section</Label>
+</Field>
+<Field type='STRING'>
+<Tag>IntervieweeName</Tag>
+<Label>Interviewee Name:</Label>
+</Field>
+<Field type='STRING'>
+<Tag>IntervieweeProfession</Tag>
+<Label>Interviewee Profession:</Label>
+</Field>
+<Field type='STRING'>
+<Tag>IntervieweeRole</Tag>
+<Label>Interviewee Relationship to the Case:</Label>
+</Field>
+<Field type='LANGUAGE'>
+<Tag>IntervieweeLanguage</Tag>
+<Label>Interviewee Speaks:</Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>InterviewDates</Tag>
+<Label>Date(s) of interview(s):</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Anonymous</Tag>
+<Label>Does interviewee wish to remain anonymous?</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>AdditionalInfo</Tag>
+<Label>Is interviewee willing to give additional information if needed?</Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Testify</Tag>
+<Label>Is interviewee willing to testify?</Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='SECTION'>
+<Tag>VictimInformationSection</Tag>
+<Label>Victim Information Section</Label>
+</Field>
+<Field type='GRID'>
+<Tag>VictimInformationGrid</Tag>
+<Label>Victim Information</Label>
+<GridSpecDetails>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>First Name</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Last Name</Label>
+</Column>
+<Column type='BOOLEAN'>
+<Tag></Tag>
+<Label>Is Identified?</Label>
+</Column>
+<Column type='DATE'>
+<Tag></Tag>
+<Label>Date of Birth</Label>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Sex</Label>
+<Choices>
+<Choice></Choice>
+<Choice>Male</Choice>
+<Choice>Female</Choice>
+<Choice>Unknown</Choice>
+</Choices>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Ethnicity</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='GRID'>
+<Tag>VictimViolationsHistoryGrid</Tag>
+<Label>Violations Suffered by Each Victim</Label>
+<GridSpecDetails>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>First Name</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>First Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Last Name</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>Last Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>First Violation Type</Label>
+<Choices>
+<Choice></Choice>
+<Choice>Unlawful detention by security forces</Choice>
+<Choice>Raid on home by security forces</Choice>
+<Choice>Sexual assault</Choice>
+<Choice>Rape</Choice>
+<Choice>Battery</Choice>
+<Choice>Disappearance</Choice>
+<Choice>Threats</Choice>
+<Choice>Homicide</Choice>
+<Choice>Lack of due process</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Second Violation Type</Label>
+<Choices>
+<Choice></Choice>
+<Choice>Unlawful detention by security forces</Choice>
+<Choice>Raid on home by security forces</Choice>
+<Choice>Sexual assault</Choice>
+<Choice>Rape</Choice>
+<Choice>Battery</Choice>
+<Choice>Disappearance</Choice>
+<Choice>Threats</Choice>
+<Choice>Homicide</Choice>
+<Choice>Lack of due process</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Third Violation Type</Label>
+<Choices>
+<Choice></Choice>
+<Choice>Unlawful detention by security forces</Choice>
+<Choice>Raid on home by security forces</Choice>
+<Choice>Sexual assault</Choice>
+<Choice>Rape</Choice>
+<Choice>Battery</Choice>
+<Choice>Disappearance</Choice>
+<Choice>Threats</Choice>
+<Choice>Homicide</Choice>
+<Choice>Lack of due process</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Fourth Violation Type</Label>
+<Choices>
+<Choice></Choice>
+<Choice>Unlawful detention by security forces</Choice>
+<Choice>Raid on home by security forces</Choice>
+<Choice>Sexual assault</Choice>
+<Choice>Rape</Choice>
+<Choice>Battery</Choice>
+<Choice>Disappearance</Choice>
+<Choice>Threats</Choice>
+<Choice>Homicide</Choice>
+<Choice>Lack of due process</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Additional Comments</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MESSAGE'>
+<Tag>MessageVictimProfession</Tag>
+<Label>Victim Profession History Table Note</Label>
+<Message>If you have information about a victim who has had different professions over time, enter multiple rows with the same First and Last Names and show the date ranges for each profession on a separate row.  Dropdown lists of names will be populated by the names you entered in the Victim grid above.</Message>
+</Field>
+<Field type='GRID'>
+<Tag>VictimProfessionHistoryGrid</Tag>
+<Label>Victim Profession History</Label>
+<GridSpecDetails>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>First Name</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>First Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Last Name</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>Last Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Profession</Label>
+</Column>
+<Column type='DATERANGE'>
+<Tag></Tag>
+<Label>Dates of Profession</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='SECTION'>
+<Tag>PerpetratorInformationSection</Tag>
+<Label>Perpetrator Information Section</Label>
+</Field>
+<Field type='GRID'>
+<Tag>PerpetratorInformationGrid</Tag>
+<Label>Perpetrator Information</Label>
+<GridSpecDetails>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>First Name</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Last Name</Label>
+</Column>
+<Column type='BOOLEAN'>
+<Tag></Tag>
+<Label>Is Identified?</Label>
+</Column>
+<Column type='DATE'>
+<Tag></Tag>
+<Label>Date of Birth</Label>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Sex</Label>
+<Choices>
+<Choice></Choice>
+<Choice>Male</Choice>
+<Choice>Female</Choice>
+<Choice>Unknown</Choice>
+</Choices>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Ethnicity</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MESSAGE'>
+<Tag>MessagePerpetratorProfession</Tag>
+<Label>Perpetrator Profession History Table Note</Label>
+<Message>If you have information about a perpetrator who has had different professions over time, enter multiple rows with the same First and Last Names and show the date ranges for each profession on a separate row. Dropdown lists of names will be populated by the names you entered in the Perpetrator grid above.</Message>
+</Field>
+<Field type='GRID'>
+<Tag>PerpetratorProfessionHistoryGrid</Tag>
+<Label>Perpetrator Profession History</Label>
+<GridSpecDetails>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>First Name</Label>
+<DataSource>
+<GridFieldTag>PerpetratorInformationGrid</GridFieldTag>
+<GridColumnLabel>First Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Last Name</Label>
+<DataSource>
+<GridFieldTag>PerpetratorInformationGrid</GridFieldTag>
+<GridColumnLabel>Last Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Profession</Label>
+</Column>
+<Column type='DATERANGE'>
+<Tag></Tag>
+<Label>Dates of Profession</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='SECTION'>
+<Tag>FollowUpSection</Tag>
+<Label>Interventions and Follow-up Section</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>FollowUpRecQ</Tag>
+<Label>Was an intervention or follow-up recommended?</Label>
+</Field>
+<Field type='DROPDOWN'>
+<Tag>InterventionFollowupForm</Tag>
+<Label>What form of intervention/follow-up was originally recommended?</Label>
+<RequiredField/>
+<Choices>
+<Choice></Choice>
+<Choice>Legal aid</Choice>
+<Choice>Medical support</Choice>
+<Choice>Police report</Choice>
+<Choice>Social service aid</Choice>
+<Choice>Referral to a local NGO</Choice>
+<Choice>Referral to a regional NGO</Choice>
+<Choice>Referral to a national NGO</Choice>
+<Choice>Referral to an international NGO</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Field>
+<Field type='STRING'>
+<Tag>IfOtherThen</Tag>
+<Label>If Intervention/Follow-up = “Other”, please specify.</Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>ExplainInterventionFollowup</Tag>
+<Label>Please provide all relevant context and details about any intervention/follow-up recommended on the case.</Label>
+</Field>
+<Field type='GRID'>
+<Tag>TrackFurtherFollowup</Tag>
+<Label>Track further intervention/follow-up</Label>
+<GridSpecDetails>
+<Column type='DATERANGE'>
+<Tag></Tag>
+<Label>Date(s) of Intervention/Follow-up</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Name of Staff Member</Label>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Type of Intervention/Follow-up</Label>
+<Choices>
+<Choice></Choice>
+<Choice>Legal aid</Choice>
+<Choice>Medical support</Choice>
+<Choice>Police report</Choice>
+<Choice>Social service aid</Choice>
+<Choice>Referral to a local NGO</Choice>
+<Choice>Referral to a regional NGO</Choice>
+<Choice>Referral to a national NGO</Choice>
+<Choice>Referral to an international NGO</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>If “Other”, please specify.</Label>
+</Column>
+<Column type='BOOLEAN'>
+<Tag></Tag>
+<Label>Further Intervention/Follow-up Required?</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Brief Comments</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='SECTION'>
+<Tag>AttachmentInformationSection</Tag>
+<Label>Attachment Information Section</Label>
+</Field>
+<Field type='MESSAGE'>
+<Tag>AttachmentInformationInstructions</Tag>
+<Label>Attachment Information Instructions:</Label>
+<Message>Please briefly describe each attachment. If bibliographic/reference information is not provided above, please include here. For each attachment, please also note if a hard copy exists, and if so, where.</Message>
+</Field>
+<Field type='MULTILINE'>
+<Tag>AttachmentInformation</Tag>
+<Label>Attachment Information:</Label>
+</Field>
+</MainFieldSpecs>
+
+<PrivateFieldSpecs>
+<Field type='MULTILINE'>
+<Tag>privateinfo</Tag>
+<Label></Label>
+</Field>
+</PrivateFieldSpecs>
+
+<FieldValues>
+<Field tag='AdministrativeInformation'>
+<Value></Value>
+</Field>
+<Field tag='FollowUpUrgency'>
+<Value>Urgent</Value>
+</Field>
+<Field tag='IfUrgencyOther'>
+<Value></Value>
+</Field>
+<Field tag='AdvocacyUse'>
+<Value>1</Value>
+</Field>
+<Field tag='language'>
+<Value>en</Value>
+</Field>
+<Field tag='GeneralCaseInformation'>
+<Value></Value>
+</Field>
+<Field tag='author'>
+<Value>Field Monitor from Najaf</Value>
+</Field>
+<Field tag='organization'>
+<Value>Human Rights NGO</Value>
+</Field>
+<Field tag='title'>
+<Value>Family attacked in security forces raid</Value>
+</Field>
+<Field tag='location'>
+<Value>Village outside of Najaf (this field should usually be a series of dropdowns, such as Province, Town, Village, for standardized entry and ease of later searching.</Value>
+</Field>
+<Field tag='ThemesInstructions'>
+<Value>Please list any keywords or themes relevant to this case. For example, you can mention violation types present in this incident report here, in an anonymized way, such as &quot;Unlawful detention, battery and killing of civilian&quot;, without mention the identities of the victims that they happened to.</Value>
+</Field>
+<Field tag='keywords'>
+<Value>Police raid, battery, breaking and entering, violence against women, Najaf</Value>
+</Field>
+<Field tag='eventdate'>
+<Value>Range:2005-06-06,2005-06-06</Value>
+</Field>
+<Field tag='entrydate'>
+<Value>Simple:2008-10-27</Value>
+</Field>
+<Field tag='ResearchTeamInstruction'>
+<Value>Please note the names of all researchers involved in gathering the case information in this bulletin.</Value>
+</Field>
+<Field tag='ResearcherInfo'>
+<Value><GridData columns='4'>
+<Row>
+<Column>Jane</Column>
+<Column>Doe</Column>
+<Column>Baghdad</Column>
+<Column>Range:2005-08-01,2005-08-15</Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='ChallengesInstructions'>
+<Value>Please list any challenges the research team faced in collecting this information.</Value>
+</Field>
+<Field tag='ChallengesInfo'>
+<Value>It was very difficult to get family members to talk to me because they were frightened of what would happen if the police ever found out. When I told them I would be storing the information in a very secure way they were a bit more comfortable. Additionally it was hard to spend as much time as I should have building their trust, as I had to return to Baghdad very soon after.</Value>
+</Field>
+<Field tag='CaseSummaryDetailSection'>
+<Value></Value>
+</Field>
+<Field tag='CaseSummaryDetailsInstructions'>
+<Value>In “Case Summary”, please summarize the key incident(s) of the case. In “Case Details” please provide as much as detail as possible. For example, under “Case Details” you may want to paste the transcript of the interview.  If you have scanned documents you can also include them as attachments below.</Value>
+</Field>
+<Field tag='IncidentSummary'>
+<Value>Mohamed Khan&#39;s family from village X outside of Najaf attacked in security forces raid because he had been speaking to an investigative journalist about police corruption. </Value>
+</Field>
+<Field tag='IncidentDetails'>
+<Value>Paste narrative from interview here, or attach below. </Value>
+</Field>
+<Field tag='SourceSection'>
+<Value></Value>
+</Field>
+<Field tag='BulletinSource'>
+<Value>Personal Interview (e.g. with victims, family members, witnesses, perpetrators or other relevant parties)</Value>
+</Field>
+<Field tag='SourceSpecifyOther'>
+<Value></Value>
+</Field>
+<Field tag='AdditionalSourceInformation'>
+<Value>If source is listed as “Personal Interview”, fill out all fields pertaining to the interviewee/interview in the “Personal Interview Section” below. Otherwise, please fill out the field “Bibliographic Information” with all appropriate reference information for the source document.</Value>
+</Field>
+<Field tag='BibliographicInformation'>
+<Value>HRW report May 2005</Value>
+</Field>
+<Field tag='InterviewSection'>
+<Value></Value>
+</Field>
+<Field tag='IntervieweeName'>
+<Value>Mohamed Khan</Value>
+</Field>
+<Field tag='IntervieweeProfession'>
+<Value>Laborer</Value>
+</Field>
+<Field tag='IntervieweeRole'>
+<Value>Victim (and family also victims)</Value>
+</Field>
+<Field tag='IntervieweeLanguage'>
+<Value>ar</Value>
+</Field>
+<Field tag='InterviewDates'>
+<Value>Range:2005-08-01,2005-08-07</Value>
+</Field>
+<Field tag='Anonymous'>
+<Value>0</Value>
+</Field>
+<Field tag='AdditionalInfo'>
+<Value>1</Value>
+</Field>
+<Field tag='Testify'>
+<Value>1</Value>
+</Field>
+<Field tag='VictimInformationSection'>
+<Value></Value>
+</Field>
+<Field tag='VictimInformationGrid'>
+<Value><GridData columns='6'>
+<Row>
+<Column>Fatima</Column>
+<Column>Khan</Column>
+<Column>1</Column>
+<Column>Simple:1980-07-07</Column>
+<Column>Female</Column>
+<Column></Column>
+</Row>
+<Row>
+<Column>Fahmy</Column>
+<Column>Khan</Column>
+<Column>1</Column>
+<Column>Simple:1979-02-03</Column>
+<Column>Male</Column>
+<Column></Column>
+</Row>
+<Row>
+<Column>Noora</Column>
+<Column>Khan</Column>
+<Column>1</Column>
+<Column>Simple:1955-01-01</Column>
+<Column>Female</Column>
+<Column></Column>
+</Row>
+<Row>
+<Column>Mohamed</Column>
+<Column>Khan</Column>
+<Column>1</Column>
+<Column>Simple:1951-01-01</Column>
+<Column>Male</Column>
+<Column></Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='VictimViolationsHistoryGrid'>
+<Value><GridData columns='7'>
+<Row>
+<Column>Mohamed</Column>
+<Column>Khan</Column>
+<Column>Unlawful detention by security forces</Column>
+<Column>Raid on home by security forces</Column>
+<Column>Battery</Column>
+<Column></Column>
+<Column></Column>
+</Row>
+<Row>
+<Column>Fahmy</Column>
+<Column>Khan</Column>
+<Column>Raid on home by security forces</Column>
+<Column>Threats</Column>
+<Column></Column>
+<Column></Column>
+<Column></Column>
+</Row>
+<Row>
+<Column>Fatima</Column>
+<Column>Khan</Column>
+<Column>Raid on home by security forces</Column>
+<Column>Battery</Column>
+<Column></Column>
+<Column></Column>
+<Column></Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='MessageVictimProfession'>
+<Value>If you have information about a victim who has had different professions over time, enter multiple rows with the same First and Last Names and show the date ranges for each profession on a separate row.  Dropdown lists of names will be populated by the names you entered in the Victim grid above.</Value>
+</Field>
+<Field tag='VictimProfessionHistoryGrid'>
+<Value><GridData columns='4'>
+<Row>
+<Column>Mohamed</Column>
+<Column>Khan</Column>
+<Column>Laborer</Column>
+<Column>Range:0001-01-01,2005-08-15</Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='PerpetratorInformationSection'>
+<Value></Value>
+</Field>
+<Field tag='PerpetratorInformationGrid'>
+<Value><GridData columns='6'>
+<Row>
+<Column></Column>
+<Column></Column>
+<Column>0</Column>
+<Column>Simple:0001-01-01</Column>
+<Column></Column>
+<Column></Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='MessagePerpetratorProfession'>
+<Value>If you have information about a perpetrator who has had different professions over time, enter multiple rows with the same First and Last Names and show the date ranges for each profession on a separate row. Dropdown lists of names will be populated by the names you entered in the Perpetrator grid above.</Value>
+</Field>
+<Field tag='PerpetratorProfessionHistoryGrid'>
+<Value><GridData columns='4'>
+<Row>
+<Column></Column>
+<Column></Column>
+<Column></Column>
+<Column>Range:0001-01-01,0001-01-01</Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='FollowUpSection'>
+<Value></Value>
+</Field>
+<Field tag='FollowUpRecQ'>
+<Value>1</Value>
+</Field>
+<Field tag='InterventionFollowupForm'>
+<Value>Legal aid</Value>
+</Field>
+<Field tag='IfOtherThen'>
+<Value></Value>
+</Field>
+<Field tag='ExplainInterventionFollowup'>
+<Value>Any relevant details about who they were recommended to contact, etc </Value>
+</Field>
+<Field tag='TrackFurtherFollowup'>
+<Value><GridData columns='6'>
+<Row>
+<Column>Range:2005-01-01,2005-01-01</Column>
+<Column>Jane Doe</Column>
+<Column>Legal aid</Column>
+<Column></Column>
+<Column>1</Column>
+<Column>Continuing legal process will require further followup and support. </Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='AttachmentInformationSection'>
+<Value></Value>
+</Field>
+<Field tag='AttachmentInformationInstructions'>
+<Value>Please briefly describe each attachment. If bibliographic/reference information is not provided above, please include here. For each attachment, please also note if a hard copy exists, and if so, where.</Value>
+</Field>
+<Field tag='AttachmentInformation'>
+<Value>Attached: A photo of the Khan family after the beating. 
+Attached: Word documents with transcripts of the interviews with each family member.
+Attached: An official document - the police report. </Value>
+</Field>
+<Field tag='privateinfo'>
+<Value></Value>
+</Field>
+</FieldValues>
+</MartusBulletin>
+
+<MartusBulletin>
+<BulletinMetaData>
+<AuthorAccountId>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrC2mAAC1jcNWCfyeKFfnZaIpXs1MmpJGEBpaJq095Jc1unoq01dYhSQHDbx9oCs4RsQy/AoKXn2UGNuRdPce1jghYHaqynl4cWrtupoBIjbbVBHdytClUihMwrz6cGV3iLnsUCCf2e7g6W5gq4MEHLpSgjzZazj7LqMgsv6GwIDikiwNSy0Gwc6sjelMxOUFupQZNs+ngsrZdQt8G0Mz9yBbgb5kDNawkVqHgaHZrRrSgn0Wsb2GxceWTBJHa8ZHO9S66NqwDyjz8rOFxorUsiKJ6aAR6TT9VG+5cEMzqYvtQhWuUQSsGn8kDuDk2+vCRkS9mkEXUSTA39LP3r8IQIDAQAB</AuthorAccountId>
+<BulletinLocalId>B-jsMBJ6xVjNRuVcufcC2JTg--</BulletinLocalId>
+<BulletinLastSavedDateTime>1225172609100</BulletinLastSavedDateTime>
+<LocalizedBulletinLastSavedDateTime>10/27/2008 22:43</LocalizedBulletinLastSavedDateTime>
+<AllPrivate></AllPrivate>
+<BulletinStatus>sealed</BulletinStatus>
+<LocalizedBulletinStatus>Sealed</LocalizedBulletinStatus>
+<BulletinVersion>1</BulletinVersion>
+<ExtendedHistory>
+</ExtendedHistory>
+</BulletinMetaData>
+<MainFieldSpecs>
+<Field type='LANGUAGE'>
+<Tag>language</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>author</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>organization</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>title</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>location</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>keywords</Tag>
+<Label></Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>eventdate</Tag>
+<Label></Label>
+</Field>
+<Field type='DATE'>
+<Tag>entrydate</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>summary</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>publicinfo</Tag>
+<Label></Label>
+</Field>
+<Field type='SECTION'>
+<Tag>sourcesection</Tag>
+<Label>Source Section</Label>
+</Field>
+<Field type='DROPDOWN'>
+<Tag>BulletinSource</Tag>
+<Label>Source of bulletin information</Label>
+<RequiredField/>
+<Choices>
+<Choice></Choice>
+<Choice>Media/Press</Choice>
+<Choice>Legal Report</Choice>
+<Choice>Personal Interview</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Field>
+<Field type='STRING'>
+<Tag>SpecifyOther</Tag>
+<Label>If &quot;Other&quot;, please specify:</Label>
+</Field>
+<Field type='STRING'>
+<Tag>IntervieweeName</Tag>
+<Label>Interviewee Name</Label>
+</Field>
+<Field type='LANGUAGE'>
+<Tag>IntervieweeLanguage</Tag>
+<Label>Interviewee Speaks</Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>InterviewDates</Tag>
+<Label>Date(s) of interview(s)</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Anonymous</Tag>
+<Label>Does interviewee wish to remain anonymous?</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>AdditionalInfo</Tag>
+<Label>Is interviewee willing to give additional information if needed?</Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Testify</Tag>
+<Label>Is interviewee willing to testify?</Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='SECTION'>
+<Tag>peoplesection</Tag>
+<Label>People Section</Label>
+</Field>
+<Field type='GRID'>
+<Tag>VictimInformationGrid</Tag>
+<Label>Victim Information</Label>
+<GridSpecDetails>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>First Name</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Last Name</Label>
+</Column>
+<Column type='BOOLEAN'>
+<Tag></Tag>
+<Label>Is Identified?</Label>
+</Column>
+<Column type='DATE'>
+<Tag></Tag>
+<Label>Date of Birth</Label>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Sex</Label>
+<Choices>
+<Choice></Choice>
+<Choice>Male</Choice>
+<Choice>Female</Choice>
+<Choice>Unknown</Choice>
+</Choices>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Ethnicity</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MESSAGE'>
+<Tag>MessageProfession</Tag>
+<Label>Profession History Table Note</Label>
+<Message>If you have information about a person who has had different professions over time, enter multiple rows with the same First and Last Names and show the date ranges for each profession on a separate row.</Message>
+</Field>
+<Field type='GRID'>
+<Tag>ProfessionHistoryGrid</Tag>
+<Label>Profession History</Label>
+<GridSpecDetails>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>First Name</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>First Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Last Name</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>Last Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Profession</Label>
+</Column>
+<Column type='DATERANGE'>
+<Tag></Tag>
+<Label>Dates of Profession</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+</MainFieldSpecs>
+
+<PrivateFieldSpecs>
+<Field type='MULTILINE'>
+<Tag>privateinfo</Tag>
+<Label></Label>
+</Field>
+</PrivateFieldSpecs>
+
+<FieldValues>
+<Field tag='language'>
+<Value>en</Value>
+</Field>
+<Field tag='author'>
+<Value>Provincial Field Office</Value>
+</Field>
+<Field tag='organization'>
+<Value>Human Rights NGO</Value>
+</Field>
+<Field tag='title'>
+<Value>Laptop stolen from leading activist in Karbala by security forces</Value>
+</Field>
+<Field tag='location'>
+<Value>Karbala</Value>
+</Field>
+<Field tag='keywords'>
+<Value>laptop theft, activist, repression, security forces</Value>
+</Field>
+<Field tag='eventdate'>
+<Value>Range:2008-05-01,2008-05-01</Value>
+</Field>
+<Field tag='entrydate'>
+<Value>Simple:2008-10-27</Value>
+</Field>
+<Field tag='summary'>
+<Value>Journalist Amal Qureshi&#39;s laptop stolen when she was returning to his car after work. </Value>
+</Field>
+<Field tag='publicinfo'>
+<Value>She was able to identify them as security forces because they were in uniform and allegedly they had a warrant to search his laptop. </Value>
+</Field>
+<Field tag='sourcesection'>
+<Value></Value>
+</Field>
+<Field tag='BulletinSource'>
+<Value>Media/Press</Value>
+</Field>
+<Field tag='SpecifyOther'>
+<Value></Value>
+</Field>
+<Field tag='IntervieweeName'>
+<Value></Value>
+</Field>
+<Field tag='IntervieweeLanguage'>
+<Value>?</Value>
+</Field>
+<Field tag='InterviewDates'>
+<Value>Range:0001-01-01,0001-01-01</Value>
+</Field>
+<Field tag='Anonymous'>
+<Value>0</Value>
+</Field>
+<Field tag='AdditionalInfo'>
+<Value>0</Value>
+</Field>
+<Field tag='Testify'>
+<Value>0</Value>
+</Field>
+<Field tag='peoplesection'>
+<Value></Value>
+</Field>
+<Field tag='VictimInformationGrid'>
+<Value><GridData columns='6'>
+<Row>
+<Column>Amal</Column>
+<Column>Qureshi</Column>
+<Column>1</Column>
+<Column>Simple:1950-01-01</Column>
+<Column>Female</Column>
+<Column></Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='MessageProfession'>
+<Value>If you have information about a person who has had different professions over time, enter multiple rows with the same First and Last Names and show the date ranges for each profession on a separate row.</Value>
+</Field>
+<Field tag='ProfessionHistoryGrid'>
+<Value><GridData columns='4'>
+<Row>
+<Column></Column>
+<Column></Column>
+<Column></Column>
+<Column>Range:0001-01-01,0001-01-01</Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='privateinfo'>
+<Value></Value>
+</Field>
+</FieldValues>
+</MartusBulletin>
+
+<MartusBulletin>
+<BulletinMetaData>
+<AuthorAccountId>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrC2mAAC1jcNWCfyeKFfnZaIpXs1MmpJGEBpaJq095Jc1unoq01dYhSQHDbx9oCs4RsQy/AoKXn2UGNuRdPce1jghYHaqynl4cWrtupoBIjbbVBHdytClUihMwrz6cGV3iLnsUCCf2e7g6W5gq4MEHLpSgjzZazj7LqMgsv6GwIDikiwNSy0Gwc6sjelMxOUFupQZNs+ngsrZdQt8G0Mz9yBbgb5kDNawkVqHgaHZrRrSgn0Wsb2GxceWTBJHa8ZHO9S66NqwDyjz8rOFxorUsiKJ6aAR6TT9VG+5cEMzqYvtQhWuUQSsGn8kDuDk2+vCRkS9mkEXUSTA39LP3r8IQIDAQAB</AuthorAccountId>
+<BulletinLocalId>B-7yA9BhObAS9BjBti+0xp2Q--</BulletinLocalId>
+<BulletinLastSavedDateTime>1233652036553</BulletinLastSavedDateTime>
+<LocalizedBulletinLastSavedDateTime>02/03/2009 01:07</LocalizedBulletinLastSavedDateTime>
+<AllPrivate></AllPrivate>
+<BulletinStatus>draft</BulletinStatus>
+<LocalizedBulletinStatus>Draft</LocalizedBulletinStatus>
+<BulletinVersion>1</BulletinVersion>
+<ExtendedHistory>
+</ExtendedHistory>
+</BulletinMetaData>
+<MainFieldSpecs>
+<Field type='LANGUAGE'>
+<Tag>language</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>author</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>organization</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>title</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>location</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>keywords</Tag>
+<Label></Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>eventdate</Tag>
+<Label></Label>
+</Field>
+<Field type='DATE'>
+<Tag>entrydate</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>summary</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>publicinfo</Tag>
+<Label></Label>
+</Field>
+</MainFieldSpecs>
+
+<PrivateFieldSpecs>
+<Field type='MULTILINE'>
+<Tag>privateinfo</Tag>
+<Label></Label>
+</Field>
+</PrivateFieldSpecs>
+
+<FieldValues>
+<Field tag='language'>
+<Value>en</Value>
+</Field>
+<Field tag='author'>
+<Value>Test Benetech</Value>
+</Field>
+<Field tag='organization'>
+<Value>Benetech</Value>
+</Field>
+<Field tag='title'>
+<Value>Honorable Gutu Mulisa - member of FDRE House of Peoples Representatives</Value>
+</Field>
+<Field tag='location'>
+<Value>Amba Town</Value>
+</Field>
+<Field tag='keywords'>
+<Value>beating and torture, threatened, detention</Value>
+</Field>
+<Field tag='eventdate'>
+<Value>Range:0001-01-01,0001-01-01</Value>
+</Field>
+<Field tag='entrydate'>
+<Value>Simple:2009-02-03</Value>
+</Field>
+<Field tag='summary'>
+<Value></Value>
+</Field>
+<Field tag='publicinfo'>
+<Value></Value>
+</Field>
+<Field tag='privateinfo'>
+<Value></Value>
+</Field>
+</FieldValues>
+</MartusBulletin>
+
+</MartusBulletins>

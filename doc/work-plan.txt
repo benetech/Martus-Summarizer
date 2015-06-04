@@ -1,0 +1,31 @@
+General Work Plan.
+
+1. Read flattener code (+popsax) carefully and grok.  Modify steps below accordingly.
+
+2. Translate flattener to Java (no GUI)
+  - All very class-based, SAX parsing, so no big architectural changes will probably be needed.
+  - Maybe translate popsax, maybe find a way around after grokking.
+  - Output is csv-like, rows echoed to the console (whatever is minimal effort for debugging.)
+  
+3. Translate summarizer to Java
+  - HTML helper is straightforward.  Do I want to switch to a dom-like interface instead.  Could work fine?
+  - Main script body needs to be class-ified.  No re-structuring, just division into util methods of a main processing class.
+  
+  
+Nope, scratch that.  No python to java translation, just better packaging of code that already works.
+
+New Plan:
+
+ * For both the flattener and the summarizer:
+    1. strip out unneeded functionality and code, especially where this removes imports
+    2. set up a single method-call entry point
+ 
+3. Ennumerate and chart out all the dependencies of both scripts.
+
+4. Build a GUI that gathers the input parameters I want to expose, then calls both tools.  Perhaps arrange all the
+   dependencies in easily reachable nearby directories.
+   
+5. Package the whole thing up with pyinstaller on windows
+   - install python 2.6 and pyinstaller on Windows
+   - set up and run the .exe packaging
+   - test it on Sophie's computer

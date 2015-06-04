@@ -1,0 +1,208 @@
+<MartusBulletins>
+
+  <MartusBulletin>
+
+    <BulletinMetaData>
+      <BulletinLocalId>B-zd6N+Jq+EJ2ILeVgaHlHQg--</BulletinLocalId>
+      <BulletinLastSavedDateTime>1248702587625</BulletinLastSavedDateTime>
+      <LocalizedBulletinLastSavedDateTime>07/27/2009 09:49</LocalizedBulletinLastSavedDateTime>
+    </BulletinMetaData>
+
+    <MainFieldSpecs>
+      <Field type='DATERANGE'>
+        <Tag>eventdate</Tag>
+        <Label></Label>
+      </Field>
+
+      <Field type='DATE'>
+        <Tag>entrydate</Tag>
+        <Label></Label>
+      </Field>
+    </MainFieldSpecs>
+
+    <PrivateFieldSpecs>
+      <Field type='GRID'>
+        <Tag>grid</Tag>
+        <Label>Victim Information</Label>
+        <GridSpecDetails>
+          <Column type='DATE'>
+            <Tag>attempt-date</Tag>
+            <Label>Date of Attempt</Label>
+          </Column>
+          <Column type='DATERANGE'>
+            <Tag></Tag>
+            <Label>date of birth</Label>
+          </Column>
+        </GridSpecDetails>
+      </Field>
+    </PrivateFieldSpecs>
+
+    <FieldValues>
+      <Field tag='eventdate'>
+        <Value>Range:2009-06-01,2009-07-01</Value>
+      </Field>
+      <Field tag='entrydate'>
+        <Value>Simple:0001-01-01</Value>
+      </Field>
+
+      <Field tag='grid'>
+        <Value>
+          <GridData columns='2'>
+            <Row>
+              <Column>Simple:2009-07-24</Column>
+              <Column>Range:0001-01-01,0001-01-01</Column>
+            </Row>
+          </GridData>
+        </Value>
+      </Field>
+
+    </FieldValues>
+
+  </MartusBulletin>
+
+  <MartusBulletin>
+
+    <BulletinMetaData>
+      <BulletinLocalId>B-zd6N+Jq+EJ2ILeVgaHlxxx--</BulletinLocalId>
+      <BulletinLastSavedDateTime>1248702587629</BulletinLastSavedDateTime>
+      <LocalizedBulletinLastSavedDateTime>07/27/2009 09:59</LocalizedBulletinLastSavedDateTime>
+    </BulletinMetaData>
+
+    <MainFieldSpecs>
+      <Field type='DATE'>
+        <Tag>entrydate</Tag>
+        <Label></Label>
+      </Field>
+
+      <Field type='DATERANGE'>
+        <Tag>eventdate</Tag>
+        <Label></Label>
+      </Field>
+    </MainFieldSpecs>
+
+    <PrivateFieldSpecs>
+      <Field type='GRID'>
+        <Tag>grid</Tag>
+        <Label>Victim Information</Label>
+        <GridSpecDetails>
+          <Column type='DATE'>
+            <Tag>attempt_date</Tag>
+            <Label>Date of Attempt</Label>
+          </Column>
+
+          <Column type='BOOLEAN'>
+            <Tag>did_attempt</Tag>
+            <Label>Did Attempt?</Label>
+          </Column>
+
+          <Column type='DATERANGE'>
+            <Tag></Tag>
+            <Label>date of birth</Label>
+          </Column>
+        </GridSpecDetails>
+      </Field>
+    </PrivateFieldSpecs>
+
+    <FieldValues>
+      <Field tag='eventdate'>
+        <Value>Range:2009-06-01,2009-07-01</Value>
+      </Field>
+      <Field tag='entrydate'>
+        <Value>Simple:0001-01-01</Value>
+      </Field>
+
+      <Field tag='grid'>
+        <Value>
+          <GridData columns='2'>
+            <Row>
+              <Column>Simple:2009-07-24</Column>
+              <Column>1</Column>
+              <Column>Range:0001-01-01,0001-01-01</Column>
+            </Row>
+
+            <Row>
+              <Column></Column>
+              <Column>1</Column>
+              <Column></Column>
+            </Row>
+	    <!-- row has no non-empty fields (boolean of 0 is the default) -->
+            <Row>
+              <Column></Column>
+              <Column>0</Column>
+              <Column></Column>
+            </Row>
+          </GridData>
+        </Value>
+      </Field>
+
+    </FieldValues>
+
+  </MartusBulletin>
+
+  <MartusBulletin>
+
+    <BulletinMetaData>
+      <BulletinLocalId>B-zd6N+Jq+EJ2ILeVgaHlyyy--</BulletinLocalId>
+      <BulletinLastSavedDateTime>1248702587629</BulletinLastSavedDateTime>
+      <LocalizedBulletinLastSavedDateTime>07/27/2009 09:59</LocalizedBulletinLastSavedDateTime>
+    </BulletinMetaData>
+
+    <MainFieldSpecs>
+      <Field type='DATE'>
+        <Tag>entrydate</Tag>
+        <Label></Label>
+      </Field>
+
+      <Field type='DATERANGE'>
+        <Tag>eventdate</Tag>
+        <Label></Label>
+      </Field>
+    </MainFieldSpecs>
+
+    <PrivateFieldSpecs>
+      <Field type='GRID'>
+        <Tag>grid</Tag>
+        <Label>Victim Information</Label>
+        <GridSpecDetails>
+          <Column type='BOOLEAN'>
+            <Tag>did_die</Tag>
+            <Label>Did Die?</Label>
+          </Column>
+
+          <Column type='BOOLEAN'>
+            <Tag>did_attempt</Tag>
+            <Label>Did Attempt?</Label>
+          </Column>
+        </GridSpecDetails>
+      </Field>
+    </PrivateFieldSpecs>
+
+    <FieldValues>
+      <Field tag='eventdate'>
+        <Value>Range:2009-06-01,2009-07-01</Value>
+      </Field>
+      <Field tag='entrydate'>
+        <Value>Simple:0001-01-01</Value>
+      </Field>
+
+      <Field tag='grid'>
+        <Value>
+          <GridData columns='2'>
+	    <!-- row has no non-empty fields, but grid is all booleans -->
+            <Row>
+              <Column>0</Column>
+              <Column>0</Column>
+            </Row>
+            <Row>
+              <Column>1</Column>
+              <Column>0</Column>
+            </Row>
+          </GridData>
+        </Value>
+      </Field>
+
+    </FieldValues>
+
+  </MartusBulletin>
+
+</MartusBulletins>

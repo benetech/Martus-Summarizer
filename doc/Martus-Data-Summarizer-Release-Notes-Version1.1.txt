@@ -1,0 +1,24 @@
+Martus Data Summarizer Software Version 1.1 Release Notes.txt
+------------------------------------------------------------------------------
+
+
+
+The Martus Data Summarizer gives you the ability to summarize your Martus bulletin data at a field level. 
+
+See the Martus Data Summarizer User Guide for instructions on how to install and run the Martus Data Summarizer software and for a more detailed description of product features. 
+
+
+Martus Data Summarizer release information by version and release date: 
+ 
+Version 1.1 		2012-06
+
+This release is only available in English.  There are plans to translate Martus Data Summarizer into other languages in future versions.
+
+- Ability to save data as a “flattened” CSV file during Summarizer run in a location chosen by the user. Note that there will be multiple .csv output files if the input data contained grids, as there are with html output files.  These files can be loaded into spreadsheets or other tools for further descriptive analysis of the data exported from Martus.  Please see the Martus Data Summarizer User Guide for more information on how to manage these files. 
+- Will allow user to only select XML files as an input file (since Martus bulletin export files are in XML format)
+- Added an “all” option for how many values to display when drilling down into field values.
+- Added a warning message in main user interface and output files that Martus bulletin data in the Summarizer output files is not encrypted (so that anyone who gets a copy of this file will be able to read all the data).
+- Eliminated extraneous fields in Martus Data Summarizer output files.
+- Fixed issues in processing certain characters (E.g. accents) in the Martus data input files.
+
+

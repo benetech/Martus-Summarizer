@@ -1,0 +1,42 @@
+GUI Martus Summarizer
+
+- Super bare-bones GUI, looks like a dialog box.
+- Aim for one small Jar (stick to standard library)
+- Translate python code without adding many features.
+
+- Interface:
+   - On run: see a dialog with fields:
+      - file browser: choose an unencrypted Martus XML export file
+      - Summarization options:
+         - number of data rows
+         - ???
+      - file browser: choose a folder to save results
+   - While summarizing, simple progress messages
+      - Reading data....<count of bulletins read>
+      - Summarizing...<name of current table>
+      - Done.  Button to close, Button to go to folder / open index.
+      
+      
+Code:
+ - Target Java 1.4 (or whatever JVM comes with Martus), to avoid requirement for
+   Java install.  (Is the JVM installed with Martus available to launch other programs?)
+
+ - Direct translation of python code to summarize a single table.  No extra features
+   to take advantage of the fact that we know the correspondence between grid rows
+   and main table rows.
+   
+ - Instead of auto-detecting types, use Martus types from the schemea (but to start,
+   don't go crazy showing tags, set of choices, etc.)
+ 
+ - Pass over data once, filling all the freq tables.  Should be straightforward with an
+   event-triggering xml parser.
+   
+ - Generate an HTML file for each table, all in the same directory. Make a simple
+   index file that points to each of them.  Grid tables probably have names.  Main
+   file gets named based on input name.
+   
+Detailed Time estimate
+ - Get set up with Eclipse: 2-3 hours
+ - Code translation
+    - Freq table: 1 hr
+    - 

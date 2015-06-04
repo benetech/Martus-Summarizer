@@ -1,0 +1,178 @@
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>schema</title>
+
+        <style type="text/css">
+        div.header_row td { font-weight: bold; }
+        div.row { border-width: 0px 0px 1px 0px;
+                  border-style: solid;
+                  border-color: black; }
+
+        div.field_info_details { display: none; }
+
+        div.centered { margin-left: 5%; margin-right: 5% }
+
+        table.summary_tables td div { text-align: center;
+                                      text-decoration: underline;
+                                      font-style: italic;
+                                      margin-left: 5%;
+                                      margin-right: 5%; }
+
+        table.summary_tables td table td { padding-left: 20px; }
+
+        table.pairwise_dependencies td { text-align: center;
+                                         border-width: 1px;
+                                         border-style: solid;
+                                         border-color: black; }
+        table.pairwise_dependencies a { text-decoration: none; }
+        div.chi_summary { display: block; }
+        div.chi_detail { display: none; }
+
+        span.left { float: left; text-align: right; width: 2em; }
+        span.right { float: right; text-align: left; }
+        </style>
+    
+
+<style type="text/css">
+    h1 { text-align: center }
+    h2 { text-align: center }
+    
+    .even { background-color: rgb(220,220,220); }
+    .odd { background-color: rgb(200,200,200); }
+
+    .bar_table {  height: 15px; width: 80px; background-color: white;}
+    .bar_left { background-color: rgb(153, 255, 153); }
+    table { border-collapse: collapse; }
+</style>
+
+
+        <script language="Javascript">
+        function toggleVisibility(elem_name) {
+            elem = document.getElementById(elem_name)
+            new_value = elem.style.display == "block" ? "none" : "block"
+            elem.style.display = new_value
+        }
+        </script>
+    
+</head>
+<body>
+<h1>schema</h1>
+
+        <p style="text-align: center">Please note that the Martus
+        bulletin data below is not encrypted and anyone who gets
+        a copy of this file will be able to read all the data.</p>
+    
+<div class="centered"><div class="header_row row"><table width="100%"><tr><td width="40%">field name</td><td width="15%">guessed type</td><td width="15%">distinct values</td><td width="30%">completeness</td></tr></table></div>
+<div class="row odd"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('LocalId_details')">LocalId</a> (key)</td><td width="15%">string</td><td width="15%">3</td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td width="100%", class="bar_left"></td></tr></tbody></table></td><td><span class=left>100</span>.<span class=right>0% (3/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="LocalId_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlHQg--</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlxxx--</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlyyy--</td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlyyy--</td><td>1</td><td>33.3%</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlxxx--</td><td>1</td><td>33.3%</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlHQg--</td><td>1</td><td>33.3%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row even"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('Version_details')">Version</a></td><td width="15%"></td><td width="15%"></td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td></td></tr></tbody></table></td><td><span class=left>0</span>.<span class=right>0% (0/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="Version_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td></td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td></td><td>3</td><td>100.0%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row odd"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('HistoryIds_details')">HistoryIds</a> (key)</td><td width="15%">string</td><td width="15%">3</td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td width="100%", class="bar_left"></td></tr></tbody></table></td><td><span class=left>100</span>.<span class=right>0% (3/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="HistoryIds_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlHQg--</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlxxx--</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlyyy--</td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlyyy--</td><td>1</td><td>33.3%</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlxxx--</td><td>1</td><td>33.3%</td></tr>
+	<tr><td>B-zd6N+Jq+EJ2ILeVgaHlHQg--</td><td>1</td><td>33.3%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row even"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('DateSaved_details')">DateSaved</a></td><td width="15%">string</td><td width="15%">2</td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td width="100%", class="bar_left"></td></tr></tbody></table></td><td><span class=left>100</span>.<span class=right>0% (3/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="DateSaved_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td>07/27/2009 09:49</td></tr>
+	<tr><td>07/27/2009 09:59</td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td>07/27/2009 09:59</td><td>2</td><td>66.7%</td></tr>
+	<tr><td>07/27/2009 09:49</td><td>1</td><td>33.3%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row odd"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('DateSavedGMT_details')">DateSavedGMT</a></td><td width="15%">string</td><td width="15%">1</td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td width="100%", class="bar_left"></td></tr></tbody></table></td><td><span class=left>100</span>.<span class=right>0% (3/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="DateSavedGMT_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td>07/27/09 13:49:47</td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td>07/27/09 13:49:47</td><td>3</td><td>100.0%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row even"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('SecondsSaved_details')">SecondsSaved</a></td><td width="15%">int</td><td width="15%">1</td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td width="100%", class="bar_left"></td></tr></tbody></table></td><td><span class=left>100</span>.<span class=right>0% (3/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="SecondsSaved_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td>1248702587</td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td>1248702587</td><td>3</td><td>100.0%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row odd"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('FileName_details')">FileName</a></td><td width="15%">string</td><td width="15%">1</td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td width="100%", class="bar_left"></td></tr></tbody></table></td><td><span class=left>100</span>.<span class=right>0% (3/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="FileName_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td>schema.xml</td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td>schema.xml</td><td>3</td><td>100.0%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row even"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('eventdate_low_details')">eventdate_low</a></td><td width="15%">string</td><td width="15%">1</td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td width="100%", class="bar_left"></td></tr></tbody></table></td><td><span class=left>100</span>.<span class=right>0% (3/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="eventdate_low_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td>2009-06-01</td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td>2009-06-01</td><td>3</td><td>100.0%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row odd"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('eventdate_high_details')">eventdate_high</a></td><td width="15%">string</td><td width="15%">1</td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td width="100%", class="bar_left"></td></tr></tbody></table></td><td><span class=left>100</span>.<span class=right>0% (3/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="eventdate_high_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td>2009-07-01</td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td>2009-07-01</td><td>3</td><td>100.0%</td></tr>
+</table></td></tr>
+</table></div></div>
+<div class="row even"><table width="100%"><tr><td width="40%"><a href="javascript:toggleVisibility('entrydate_details')">entrydate</a></td><td width="15%"></td><td width="15%"></td><td width="30%"><table>
+	<tr><td><table cellpadding="0", border="1", cellspacing="0", class="bar_table"><tbody><tr><td></td></tr></tbody></table></td><td><span class=left>0</span>.<span class=right>0% (0/3)</span></td></tr>
+</table></td></tr></table><div class="field_info_details", id="entrydate_details"><table width="100%", align="center", class="summary_tables">
+	<tr><td><div>Sorted Distinict Values</div><table align="center">
+	<tr><td></td></tr>
+</table></td><td><div>Most Common and Rarest Values</div><table align="center">
+	<tr><td></td><td>count</td><td>%</td></tr>
+	<tr><td></td><td>3</td><td>100.0%</td></tr>
+</table></td></tr>
+</table></div></div></div>
+<center><p>3 Rows, 10 Columns</p></center>
+</body></html>

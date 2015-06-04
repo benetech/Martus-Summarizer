@@ -1,0 +1,654 @@
+<MartusBulletins>
+<MartusBulletinExportFormatVersion>3</MartusBulletinExportFormatVersion>
+<ExportMetaData>
+<PublicAndPrivateData></PublicAndPrivateData>
+<NoAttachmentsExported></NoAttachmentsExported>
+</ExportMetaData>
+
+<MartusBulletin>
+<BulletinMetaData>
+<AuthorAccountId>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhiRENgLmhN/cttPT8i5YnwN0ABs4P3dZjmdJEwksgTwU4XcYHGoUjS1m3OIrA5pymkZMOndoZ3+MAMHQEiG81vYrMCHWxPSrSieT4EUUrv2isojEcVeo8/ECQrylF3SvnWUrx9EOJa9vC2rjtm8jfaDC8+3XNe8GkB2tpKgajS+sJyyhAGSrgLvRQibquTxRLueV6b1SsMZGii6su4RSILtAUSQj4/h3m0dxqtm1iAH8FfwYxP4AJLGdGmSrIl8etoAhcfTECxT53KdQVEleF3QCo5LH3tzen+9P/7tnDqV3dW1SaD1+0CVA6Ql9AAcbWrJC+MwGLLs8ueaHh+6ZQwIDAQAB</AuthorAccountId>
+<BulletinLocalId>B-BIY5cYcftzkrcRnrHJbsAA--</BulletinLocalId>
+<BulletinLastSavedDateTime>1341612780263</BulletinLastSavedDateTime>
+<LocalizedBulletinLastSavedDateTime>07/06/2012 15:13</LocalizedBulletinLastSavedDateTime>
+<AllPrivate></AllPrivate>
+<BulletinStatus>draft</BulletinStatus>
+<LocalizedBulletinStatus>မူဳကမ္း</LocalizedBulletinStatus>
+<BulletinVersion>1</BulletinVersion>
+<ExtendedHistory>
+</ExtendedHistory>
+</BulletinMetaData>
+<MainFieldSpecs>
+<Field type='LANGUAGE'>
+<Tag>language</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>author</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>organization</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>title</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>location</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>keywords</Tag>
+<Label></Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>eventdate</Tag>
+<Label></Label>
+</Field>
+<Field type='DATE'>
+<Tag>entrydate</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>summary</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>publicinfo</Tag>
+<Label></Label>
+</Field>
+<Field type='SECTION'>
+<Tag>summarysection</Tag>
+<Label>အကဵဥ္းခဵႂပ္အပိုင္း</Label>
+</Field>
+<Field type='STRING'>
+<Tag>office</Tag>
+<Label>ေေဒသဆိုင္ရာရံုးခန္းအခဵက္အလက္ေကာက္ခံဴခင္း</Label>
+<DefaultValue>ရန္ကုန္ေဒသရံုးခန္း</DefaultValue></Field>
+<Field type='DROPDOWN'>
+<Tag>BulletinSource</Tag>
+<Label>စာေစာင္သတင္းအခဵက္အလက္မဵား၏အရင္းအဴမစ္</Label>
+<RequiredField/>
+<DefaultValue>မီဒီယာ/သတင္းဌာန</DefaultValue><Choices>
+<Choice></Choice>
+<Choice>မီဒီယာ/သတင္းဌာန</Choice>
+<Choice>တရားဝင္ အစီရင္ခံစာ</Choice>
+<Choice>ပုဂၢလိကအင္တာဗဵႃး</Choice>
+<Choice>အဴခား</Choice>
+</Choices>
+</Field>
+<Field type='STRING'>
+<Tag>SpecifyOther</Tag>
+<Label>အကယ္၍ အရင္းအဴမစ္တၾင္“အဴခား”ရႀိပၝကဴပဌာန္းေပးပၝ</Label>
+</Field>
+<Field type='STRING'>
+<Tag>IntervieweeName</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသူအမည္</Label>
+</Field>
+<Field type='LANGUAGE'>
+<Tag>IntervieweeLanguage</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသ၏ဘာသာစကား</Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>InterviewDates</Tag>
+<Label>အင္တာဗဵႃးဴပႂလုပ္သည့္ေနႛစၾဲ(မဵား)</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Anonymous</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသူသည္၎၏အမည္ကိုဖံုးကၾယ္ထားလိုပၝသလား?</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>AdditionalInfo</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသူသည္လုိအပ္ပၝကသတင္းအခဵက္အလက္မဵားထပ္ေဆာင္းေပးရန္လုိလိုလားလားရႀိပၝသလား? </Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Testify</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသူသည္သက္ေသထၾက္ဆုိရန္လုိလိုလားလားရႀိပၝသလား?</Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='DROPDOWN'>
+<Tag>EventLocation</Tag>
+<Label>ဴဴဖစ္ရပ္တည္ေနရာ</Label>
+<DefaultValue>တ၁</DefaultValue><UseReusableChoices code='TopLevelLocation'></UseReusableChoices>
+<UseReusableChoices code='SecondLevelLocation'></UseReusableChoices>
+</Field>
+<Field type='SECTION'>
+<Tag>peoplesection</Tag>
+<Label>ဴပည္သူကၸေေရၾးခဵယ္မႁ  </Label>
+</Field>
+<Field type='GRID'>
+<Tag>VictimInformationGrid</Tag>
+<Label>ဓၝးစာခံႎႀင့္ပတ္သက္ေသာသတင္းအခဵက္အလက္မဵား</Label>
+<GridSpecDetails>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>ကိုယ္ပိုင္အမည္</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>မဵိႂး႟ိုးအမည္</Label>
+</Column>
+<Column type='BOOLEAN'>
+<Tag></Tag>
+<Label>သက္ေသတင္ဴပထား႓ပီး႓ပီလား?</Label>
+</Column>
+<Column type='DATE'>
+<Tag></Tag>
+<Label>ေမၾးသကၺရာဇ္</Label>
+<MinimumDate>1910-01-01</MinimumDate>
+<MaximumDate></MaximumDate>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>လိင္</Label>
+<RequiredField/>
+<Choices>
+<Choice></Choice>
+<Choice>ကဵား</Choice>
+<Choice>မ</Choice>
+<Choice>အမည္မသိ</Choice>
+</Choices>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>ေမၾးဖၾားရာ ဴပည္နယ္</Label>
+<UseReusableChoices code='TopLevelLocation'></UseReusableChoices>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>မဵိႂး႟ိုး</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MESSAGE'>
+<Tag>MessageProfession</Tag>
+<Label>အသက္ေမၾးဝမ္းေကဵာင္းမႁေေနာက္ခံသမိုင္းဇယားကၾက္မႀတ္ခဵက္</Label>
+<Message>ပုဂၢိႂလ္တစ္ဦးသည္ အခဵိန္ကာလအလိုက္ မတူညီေသာ အသက္ေမၾးဝမ္းေကဵာင္းမႁမဵား ရႀိသည္ဟူေသာ သတင္းအခဵက္အလက္မဵား ရႀိေနပၝက ကိုယ္ပိုင္အမည္ႎႀင့္ မဵိႂး႟ိုးအမည္တိုႚ တူညီစၾာပၝဝင္ေသာ အတန္းအေဴမာက္အမဵား ထည့္သၾင္းရပၝမည္။ ႓ပီးလ႖င္ အသက္ေမၾးဝမ္းေကဵာင္း တစ္ခုခဵင္းစီအတၾက္ ေနႛစၾဲအတိုင္းအတာမဵားကို သီးဴခားအတန္းမဵားဴဖင့္ ဴပသသၾားရပၝမည္။</Message>
+</Field>
+<Field type='GRID'>
+<Tag>ProfessionHistoryGrid</Tag>
+<Label>အသက္ေမၾးဝမ္းေကဵာင္းမႁေေနာက္ခံသမိုင္း</Label>
+<GridSpecDetails>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>ကိုယ္ပိုင္အမည္</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>ကိုယ္ပိုင္အမည္</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>မဵိႂး႟ိုးအမည္</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>မဵိႂး႟ိုးအမည္</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>အသက္ေမၾးဝမ္းေကဵာင္းမႁ</Label>
+</Column>
+<Column type='DATERANGE'>
+<Tag></Tag>
+<Label>ဖၾင့္ဟေဴပာဳကားမႁမဵား၏ ေနႛစၾဲမဵား</Label>
+<MaximumDate></MaximumDate>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MULTILINE'>
+<Tag>narrative</Tag>
+<Label>အဴဖစ္အပဵက္မဵားကိုဇာတ္လမ္းပံုစံဴဖင့္ေေဖာ္ဴပမႁ</Label>
+<DefaultValue>ဴဖစ္ပဵက္ခဲ့ပံု အေသးစိတ္မႀာ ေအာက္ေဖာ္ဴပပၝအတိုင္း ဴဖစ္သည္ :</DefaultValue></Field>
+<ReusableChoices code='SecondLevelLocation' label='ဴမိႂႛ'><Choice code='တ၁.မ၁' label='ဴမစ္ဳကီးနား'></Choice>
+<Choice code='တ၁.မ၂' label='ဗန္းေမာ္'></Choice>
+<Choice code='တ၂.မ၃' label='စစ္ေတၾဴမိႂႛ'></Choice>
+<Choice code='တ၂.မ၄' label='ေကဵာက္ဴဖႃ'></Choice>
+<Choice code='တ၃.မ၅' label='ဘားအံ'></Choice>
+<Choice code='တ၃.မ၆' label='သံေတာင္'></Choice>
+</ReusableChoices>
+<ReusableChoices code='TopLevelLocation' label='ဴပည္နယ္'><Choice code='တ၁' label='ကခဵင'></Choice>
+<Choice code='တ၂' label='ရခိုင္'></Choice>
+<Choice code='တ၃' label='ကရင္'></Choice>
+</ReusableChoices>
+</MainFieldSpecs>
+
+<PrivateFieldSpecs>
+<Field type='MULTILINE'>
+<Tag>privateinfo</Tag>
+<Label></Label>
+</Field>
+</PrivateFieldSpecs>
+
+<FieldValues>
+<Field tag='language'>
+<Value>bur</Value>
+</Field>
+<Field tag='author'>
+<Value>Joe User</Value>
+</Field>
+<Field tag='organization'>
+<Value>HumanRightsNGO</Value>
+</Field>
+<Field tag='title'>
+<Value>Test</Value>
+</Field>
+<Field tag='location'>
+<Value></Value>
+</Field>
+<Field tag='keywords'>
+<Value></Value>
+</Field>
+<Field tag='eventdate'>
+<Value>Range:0001-01-01,0001-01-01</Value>
+</Field>
+<Field tag='entrydate'>
+<Value>Simple:2012-07-06</Value>
+</Field>
+<Field tag='summary'>
+<Value>test test test.</Value>
+</Field>
+<Field tag='publicinfo'>
+<Value></Value>
+</Field>
+<Field tag='summarysection'>
+<Value></Value>
+</Field>
+<Field tag='office'>
+<Value>ရန္ကုန္ေဒသရံုးခန္း</Value>
+</Field>
+<Field tag='BulletinSource'>
+<Value>မီဒီယာ/သတင္းဌာန</Value>
+</Field>
+<Field tag='SpecifyOther'>
+<Value></Value>
+</Field>
+<Field tag='IntervieweeName'>
+<Value></Value>
+</Field>
+<Field tag='IntervieweeLanguage'>
+<Value>?</Value>
+</Field>
+<Field tag='InterviewDates'>
+<Value>Range:0001-01-01,0001-01-01</Value>
+</Field>
+<Field tag='Anonymous'>
+<Value>0</Value>
+</Field>
+<Field tag='AdditionalInfo'>
+<Value>0</Value>
+</Field>
+<Field tag='Testify'>
+<Value>0</Value>
+</Field>
+<Field tag='EventLocation'>
+<Value>တ၁</Value>
+</Field>
+<Field tag='peoplesection'>
+<Value></Value>
+</Field>
+<Field tag='VictimInformationGrid'>
+<Value><GridData columns='7'>
+<Row>
+<Column></Column>
+<Column></Column>
+<Column>0</Column>
+<Column>Simple:0001-01-01</Column>
+<Column>မ</Column>
+<Column></Column>
+<Column></Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='MessageProfession'>
+<Value>ပုဂၢိႂလ္တစ္ဦးသည္ အခဵိန္ကာလအလိုက္ မတူညီေသာ အသက္ေမၾးဝမ္းေကဵာင္းမႁမဵား ရႀိသည္ဟူေသာ သတင္းအခဵက္အလက္မဵား ရႀိေနပၝက ကိုယ္ပိုင္အမည္ႎႀင့္ မဵိႂး႟ိုးအမည္တိုႚ တူညီစၾာပၝဝင္ေသာ အတန္းအေဴမာက္အမဵား ထည့္သၾင္းရပၝမည္။ ႓ပီးလ႖င္ အသက္ေမၾးဝမ္းေကဵာင္း တစ္ခုခဵင္းစီအတၾက္ ေနႛစၾဲအတိုင္းအတာမဵားကို သီးဴခားအတန္းမဵားဴဖင့္ ဴပသသၾားရပၝမည္။</Value>
+</Field>
+<Field tag='ProfessionHistoryGrid'>
+<Value><GridData columns='4'>
+<Row>
+<Column></Column>
+<Column></Column>
+<Column></Column>
+<Column>Range:0001-01-01,0001-01-01</Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='narrative'>
+<Value>ဴဖစ္ပဵက္ခဲ့ပံု အေသးစိတ္မႀာ ေအာက္ေဖာ္ဴပပၝအတိုင္း ဴဖစ္သည္ :</Value>
+</Field>
+<Field tag='privateinfo'>
+<Value></Value>
+</Field>
+</FieldValues>
+</MartusBulletin>
+
+<MartusBulletin>
+<BulletinMetaData>
+<AuthorAccountId>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhiRENgLmhN/cttPT8i5YnwN0ABs4P3dZjmdJEwksgTwU4XcYHGoUjS1m3OIrA5pymkZMOndoZ3+MAMHQEiG81vYrMCHWxPSrSieT4EUUrv2isojEcVeo8/ECQrylF3SvnWUrx9EOJa9vC2rjtm8jfaDC8+3XNe8GkB2tpKgajS+sJyyhAGSrgLvRQibquTxRLueV6b1SsMZGii6su4RSILtAUSQj4/h3m0dxqtm1iAH8FfwYxP4AJLGdGmSrIl8etoAhcfTECxT53KdQVEleF3QCo5LH3tzen+9P/7tnDqV3dW1SaD1+0CVA6Ql9AAcbWrJC+MwGLLs8ueaHh+6ZQwIDAQAB</AuthorAccountId>
+<BulletinLocalId>B-Nq3fEQyodtLL4PaHo5PHZQ--</BulletinLocalId>
+<BulletinLastSavedDateTime>1341612748136</BulletinLastSavedDateTime>
+<LocalizedBulletinLastSavedDateTime>07/06/2012 15:12</LocalizedBulletinLastSavedDateTime>
+<AllPrivate></AllPrivate>
+<BulletinStatus>draft</BulletinStatus>
+<LocalizedBulletinStatus>မူဳကမ္း</LocalizedBulletinStatus>
+<BulletinVersion>1</BulletinVersion>
+<ExtendedHistory>
+</ExtendedHistory>
+</BulletinMetaData>
+<MainFieldSpecs>
+<Field type='LANGUAGE'>
+<Tag>language</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>author</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>organization</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>title</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>location</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>keywords</Tag>
+<Label></Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>eventdate</Tag>
+<Label></Label>
+</Field>
+<Field type='DATE'>
+<Tag>entrydate</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>summary</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>publicinfo</Tag>
+<Label></Label>
+</Field>
+<Field type='SECTION'>
+<Tag>summarysection</Tag>
+<Label>အကဵဥ္းခဵႂပ္အပိုင္း</Label>
+</Field>
+<Field type='STRING'>
+<Tag>office</Tag>
+<Label>ေေဒသဆိုင္ရာရံုးခန္းအခဵက္အလက္ေကာက္ခံဴခင္း</Label>
+<DefaultValue>ရန္ကုန္ေဒသရံုးခန္း</DefaultValue></Field>
+<Field type='DROPDOWN'>
+<Tag>BulletinSource</Tag>
+<Label>စာေစာင္သတင္းအခဵက္အလက္မဵား၏အရင္းအဴမစ္</Label>
+<RequiredField/>
+<DefaultValue>မီဒီယာ/သတင္းဌာန</DefaultValue><Choices>
+<Choice></Choice>
+<Choice>မီဒီယာ/သတင္းဌာန</Choice>
+<Choice>တရားဝင္ အစီရင္ခံစာ</Choice>
+<Choice>ပုဂၢလိကအင္တာဗဵႃး</Choice>
+<Choice>အဴခား</Choice>
+</Choices>
+</Field>
+<Field type='STRING'>
+<Tag>SpecifyOther</Tag>
+<Label>အကယ္၍ အရင္းအဴမစ္တၾင္“အဴခား”ရႀိပၝကဴပဌာန္းေပးပၝ</Label>
+</Field>
+<Field type='STRING'>
+<Tag>IntervieweeName</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသူအမည္</Label>
+</Field>
+<Field type='LANGUAGE'>
+<Tag>IntervieweeLanguage</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသ၏ဘာသာစကား</Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>InterviewDates</Tag>
+<Label>အင္တာဗဵႃးဴပႂလုပ္သည့္ေနႛစၾဲ(မဵား)</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Anonymous</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသူသည္၎၏အမည္ကိုဖံုးကၾယ္ထားလိုပၝသလား?</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>AdditionalInfo</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသူသည္လုိအပ္ပၝကသတင္းအခဵက္အလက္မဵားထပ္ေဆာင္းေပးရန္လုိလိုလားလားရႀိပၝသလား? </Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Testify</Tag>
+<Label>အင္တာဗဵႃးေဴဖဳကားသူသည္သက္ေသထၾက္ဆုိရန္လုိလိုလားလားရႀိပၝသလား?</Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='DROPDOWN'>
+<Tag>EventLocation</Tag>
+<Label>ဴဴဖစ္ရပ္တည္ေနရာ</Label>
+<DefaultValue>တ၁</DefaultValue><UseReusableChoices code='TopLevelLocation'></UseReusableChoices>
+<UseReusableChoices code='SecondLevelLocation'></UseReusableChoices>
+</Field>
+<Field type='SECTION'>
+<Tag>peoplesection</Tag>
+<Label>ဴပည္သူကၸေေရၾးခဵယ္မႁ  </Label>
+</Field>
+<Field type='GRID'>
+<Tag>VictimInformationGrid</Tag>
+<Label>ဓၝးစာခံႎႀင့္ပတ္သက္ေသာသတင္းအခဵက္အလက္မဵား</Label>
+<GridSpecDetails>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>ကိုယ္ပိုင္အမည္</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>မဵိႂး႟ိုးအမည္</Label>
+</Column>
+<Column type='BOOLEAN'>
+<Tag></Tag>
+<Label>သက္ေသတင္ဴပထား႓ပီး႓ပီလား?</Label>
+</Column>
+<Column type='DATE'>
+<Tag></Tag>
+<Label>ေမၾးသကၺရာဇ္</Label>
+<MinimumDate>1910-01-01</MinimumDate>
+<MaximumDate></MaximumDate>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>လိင္</Label>
+<RequiredField/>
+<Choices>
+<Choice></Choice>
+<Choice>ကဵား</Choice>
+<Choice>မ</Choice>
+<Choice>အမည္မသိ</Choice>
+</Choices>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>ေမၾးဖၾားရာ ဴပည္နယ္</Label>
+<UseReusableChoices code='TopLevelLocation'></UseReusableChoices>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>မဵိႂး႟ိုး</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MESSAGE'>
+<Tag>MessageProfession</Tag>
+<Label>အသက္ေမၾးဝမ္းေကဵာင္းမႁေေနာက္ခံသမိုင္းဇယားကၾက္မႀတ္ခဵက္</Label>
+<Message>ပုဂၢိႂလ္တစ္ဦးသည္ အခဵိန္ကာလအလိုက္ မတူညီေသာ အသက္ေမၾးဝမ္းေကဵာင္းမႁမဵား ရႀိသည္ဟူေသာ သတင္းအခဵက္အလက္မဵား ရႀိေနပၝက ကိုယ္ပိုင္အမည္ႎႀင့္ မဵိႂး႟ိုးအမည္တိုႚ တူညီစၾာပၝဝင္ေသာ အတန္းအေဴမာက္အမဵား ထည့္သၾင္းရပၝမည္။ ႓ပီးလ႖င္ အသက္ေမၾးဝမ္းေကဵာင္း တစ္ခုခဵင္းစီအတၾက္ ေနႛစၾဲအတိုင္းအတာမဵားကို သီးဴခားအတန္းမဵားဴဖင့္ ဴပသသၾားရပၝမည္။</Message>
+</Field>
+<Field type='GRID'>
+<Tag>ProfessionHistoryGrid</Tag>
+<Label>အသက္ေမၾးဝမ္းေကဵာင္းမႁေေနာက္ခံသမိုင္း</Label>
+<GridSpecDetails>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>ကိုယ္ပိုင္အမည္</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>ကိုယ္ပိုင္အမည္</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>မဵိႂး႟ိုးအမည္</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>မဵိႂး႟ိုးအမည္</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>အသက္ေမၾးဝမ္းေကဵာင္းမႁ</Label>
+</Column>
+<Column type='DATERANGE'>
+<Tag></Tag>
+<Label>ဖၾင့္ဟေဴပာဳကားမႁမဵား၏ ေနႛစၾဲမဵား</Label>
+<MaximumDate></MaximumDate>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MULTILINE'>
+<Tag>narrative</Tag>
+<Label>အဴဖစ္အပဵက္မဵားကိုဇာတ္လမ္းပံုစံဴဖင့္ေေဖာ္ဴပမႁ</Label>
+<DefaultValue>ဴဖစ္ပဵက္ခဲ့ပံု အေသးစိတ္မႀာ ေအာက္ေဖာ္ဴပပၝအတိုင္း ဴဖစ္သည္ :</DefaultValue></Field>
+<ReusableChoices code='SecondLevelLocation' label='ဴမိႂႛ'><Choice code='တ၁.မ၁' label='ဴမစ္ဳကီးနား'></Choice>
+<Choice code='တ၁.မ၂' label='ဗန္းေမာ္'></Choice>
+<Choice code='တ၂.မ၃' label='စစ္ေတၾဴမိႂႛ'></Choice>
+<Choice code='တ၂.မ၄' label='ေကဵာက္ဴဖႃ'></Choice>
+<Choice code='တ၃.မ၅' label='ဘားအံ'></Choice>
+<Choice code='တ၃.မ၆' label='သံေတာင္'></Choice>
+</ReusableChoices>
+<ReusableChoices code='TopLevelLocation' label='ဴပည္နယ္'><Choice code='တ၁' label='ကခဵင'></Choice>
+<Choice code='တ၂' label='ရခိုင္'></Choice>
+<Choice code='တ၃' label='ကရင္'></Choice>
+</ReusableChoices>
+</MainFieldSpecs>
+
+<PrivateFieldSpecs>
+<Field type='MULTILINE'>
+<Tag>privateinfo</Tag>
+<Label></Label>
+</Field>
+</PrivateFieldSpecs>
+
+<FieldValues>
+<Field tag='language'>
+<Value>bur</Value>
+</Field>
+<Field tag='author'>
+<Value>Joe User</Value>
+</Field>
+<Field tag='organization'>
+<Value>HumanRightsNGO</Value>
+</Field>
+<Field tag='title'>
+<Value>Test 1.</Value>
+</Field>
+<Field tag='location'>
+<Value></Value>
+</Field>
+<Field tag='keywords'>
+<Value>Test.</Value>
+</Field>
+<Field tag='eventdate'>
+<Value>Range:0001-01-01,0001-01-01</Value>
+</Field>
+<Field tag='entrydate'>
+<Value>Simple:2012-07-06</Value>
+</Field>
+<Field tag='summary'>
+<Value></Value>
+</Field>
+<Field tag='publicinfo'>
+<Value></Value>
+</Field>
+<Field tag='summarysection'>
+<Value></Value>
+</Field>
+<Field tag='office'>
+<Value>ရန္ကုန္ေဒသရံုးခန္း</Value>
+</Field>
+<Field tag='BulletinSource'>
+<Value>မီဒီယာ/သတင္းဌာန</Value>
+</Field>
+<Field tag='SpecifyOther'>
+<Value></Value>
+</Field>
+<Field tag='IntervieweeName'>
+<Value></Value>
+</Field>
+<Field tag='IntervieweeLanguage'>
+<Value>?</Value>
+</Field>
+<Field tag='InterviewDates'>
+<Value>Range:0001-01-01,0001-01-01</Value>
+</Field>
+<Field tag='Anonymous'>
+<Value>0</Value>
+</Field>
+<Field tag='AdditionalInfo'>
+<Value>0</Value>
+</Field>
+<Field tag='Testify'>
+<Value>0</Value>
+</Field>
+<Field tag='EventLocation'>
+<Value>တ၁</Value>
+</Field>
+<Field tag='peoplesection'>
+<Value></Value>
+</Field>
+<Field tag='VictimInformationGrid'>
+<Value><GridData columns='7'>
+<Row>
+<Column>Name</Column>
+<Column>Name.</Column>
+<Column>0</Column>
+<Column>Simple:0001-01-01</Column>
+<Column>ကဵား</Column>
+<Column>တ၂</Column>
+<Column></Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='MessageProfession'>
+<Value>ပုဂၢိႂလ္တစ္ဦးသည္ အခဵိန္ကာလအလိုက္ မတူညီေသာ အသက္ေမၾးဝမ္းေကဵာင္းမႁမဵား ရႀိသည္ဟူေသာ သတင္းအခဵက္အလက္မဵား ရႀိေနပၝက ကိုယ္ပိုင္အမည္ႎႀင့္ မဵိႂး႟ိုးအမည္တိုႚ တူညီစၾာပၝဝင္ေသာ အတန္းအေဴမာက္အမဵား ထည့္သၾင္းရပၝမည္။ ႓ပီးလ႖င္ အသက္ေမၾးဝမ္းေကဵာင္း တစ္ခုခဵင္းစီအတၾက္ ေနႛစၾဲအတိုင္းအတာမဵားကို သီးဴခားအတန္းမဵားဴဖင့္ ဴပသသၾားရပၝမည္။</Value>
+</Field>
+<Field tag='ProfessionHistoryGrid'>
+<Value><GridData columns='4'>
+<Row>
+<Column></Column>
+<Column></Column>
+<Column></Column>
+<Column>Range:0001-01-01,0001-01-01</Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='narrative'>
+<Value>ဴဖစ္ပဵက္ခဲ့ပံု အေသးစိတ္မႀာ ေအာက္ေဖာ္ဴပပၝအတိုင္း ဴဖစ္သည္ :
+
+data data data.</Value>
+</Field>
+<Field tag='privateinfo'>
+<Value></Value>
+</Field>
+</FieldValues>
+</MartusBulletin>
+
+</MartusBulletins>

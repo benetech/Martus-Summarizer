@@ -1,0 +1,338 @@
+<MartusBulletins>
+<MartusBulletinExportFormatVersion>3</MartusBulletinExportFormatVersion>
+<ExportMetaData>
+<PublicAndPrivateData></PublicAndPrivateData>
+</ExportMetaData>
+
+<MartusBulletin>
+<BulletinMetaData>
+<AuthorAccountId>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWFWxg2ueEOjvf4E6GCMcYQxTfg24skldsyKE4fP7W2K8H5+FbTWC4OeeGIHLOQpGmuHtr3c2cHg59ePxMt2o0ldbg5X/5KV3CqDZnddz7hL8MZAedoVcE1QP6xqPJaWaPiGg5oeoNCnAPAyfgQ0asuwqCRusaJOTqEUW0OSzjiYtWyqe6Frt3JLVqqTfBhhjWn2LVNJh3H/1e5Tgy3YdPikCoWRlcDMbXm26IWgTG0XO62fIH7ZPx+01mPtw+pq7h9Gb84nSfN1DqyS8B4Idx67XcRvruA/tF6quC+U0vbuVfgKYSWqYICElG+fuLBwS0aODqkrGY1DP8l7Dm4dFwIDAQAB</AuthorAccountId>
+<BulletinLocalId>B-OTPu7DTBtqNs6HTmKnxFug--</BulletinLocalId>
+<BulletinLastSavedDateTime>1333559038919</BulletinLastSavedDateTime>
+<LocalizedBulletinLastSavedDateTime>04/04/2012 17:03</LocalizedBulletinLastSavedDateTime>
+<AllPrivate></AllPrivate>
+<BulletinStatus>sealed</BulletinStatus>
+<LocalizedBulletinStatus>Sealed</LocalizedBulletinStatus>
+<BulletinVersion>1</BulletinVersion>
+<ExtendedHistory>
+</ExtendedHistory>
+</BulletinMetaData>
+<MainFieldSpecs>
+<Field type='LANGUAGE'>
+<Tag>language</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>author</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>organization</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>title</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>location</Tag>
+<Label></Label>
+</Field>
+<Field type='STRING'>
+<Tag>keywords</Tag>
+<Label></Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>eventdate</Tag>
+<Label></Label>
+</Field>
+<Field type='DATE'>
+<Tag>entrydate</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>summary</Tag>
+<Label></Label>
+</Field>
+<Field type='MULTILINE'>
+<Tag>publicinfo</Tag>
+<Label></Label>
+</Field>
+</MainFieldSpecs>
+
+<PrivateFieldSpecs>
+<Field type='SECTION'>
+<Tag>summarysection</Tag>
+<Label>Summary Section</Label>
+</Field>
+<Field type='STRING'>
+<Tag>office</Tag>
+<Label>Regional office collecting the data</Label>
+<DefaultValue>Region 3 field office</DefaultValue></Field>
+<Field type='DROPDOWN'>
+<Tag>BulletinSource</Tag>
+<Label>Source of bulletin information</Label>
+<RequiredField/>
+<DefaultValue>Media/Press</DefaultValue><Choices>
+<Choice></Choice>
+<Choice>Media/Press</Choice>
+<Choice>Legal Report</Choice>
+<Choice>Personal Interview</Choice>
+<Choice>Other</Choice>
+</Choices>
+</Field>
+<Field type='STRING'>
+<Tag>SpecifyOther</Tag>
+<Label>If Source = &quot;Other&quot;, please specify:</Label>
+</Field>
+<Field type='STRING'>
+<Tag>IntervieweeName</Tag>
+<Label>Interviewee Name</Label>
+</Field>
+<Field type='LANGUAGE'>
+<Tag>IntervieweeLanguage</Tag>
+<Label>Interviewee Speaks</Label>
+</Field>
+<Field type='DATERANGE'>
+<Tag>InterviewDates</Tag>
+<Label>Date(s) of interview(s)</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Anonymous</Tag>
+<Label>Does interviewee wish to remain anonymous?</Label>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>AdditionalInfo</Tag>
+<Label>Is interviewee willing to give additional information if needed?</Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='BOOLEAN'>
+<Tag>Testify</Tag>
+<Label>Is interviewee willing to testify?</Label>
+<KeepWithPrevious/>
+</Field>
+<Field type='DROPDOWN'>
+<Tag>EventLocation</Tag>
+<Label>Event Location</Label>
+<DefaultValue>R1</DefaultValue><UseReusableChoices code='RegionChoices'></UseReusableChoices>
+<UseReusableChoices code='CityChoices'></UseReusableChoices>
+</Field>
+<Field type='SECTION'>
+<Tag>peoplesection</Tag>
+<Label>People Section</Label>
+</Field>
+<Field type='GRID'>
+<Tag>VictimInformationGrid</Tag>
+<Label>Victim Information</Label>
+<GridSpecDetails>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>First Name</Label>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Last Name</Label>
+</Column>
+<Column type='BOOLEAN'>
+<Tag></Tag>
+<Label>Is Identified?</Label>
+</Column>
+<Column type='DATE'>
+<Tag></Tag>
+<Label>Date of Birth</Label>
+<MinimumDate>1910-01-01</MinimumDate>
+<MaximumDate></MaximumDate>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Sex</Label>
+<RequiredField/>
+<Choices>
+<Choice></Choice>
+<Choice>Male</Choice>
+<Choice>Female</Choice>
+<Choice>Unknown</Choice>
+</Choices>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Region of Birth</Label>
+<UseReusableChoices code='RegionChoices'></UseReusableChoices>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Ethnicity</Label>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MESSAGE'>
+<Tag>MessageProfession</Tag>
+<Label>Profession History Table Note</Label>
+<Message>If you have information about a person who has had different professions over time, enter multiple rows with the same First and Last Names and show the date ranges for each profession on a separate row.</Message>
+</Field>
+<Field type='GRID'>
+<Tag>ProfessionHistoryGrid</Tag>
+<Label>Profession History</Label>
+<GridSpecDetails>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>First Name</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>First Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='DROPDOWN'>
+<Tag></Tag>
+<Label>Last Name</Label>
+<DataSource>
+<GridFieldTag>VictimInformationGrid</GridFieldTag>
+<GridColumnLabel>Last Name</GridColumnLabel>
+</DataSource>
+</Column>
+<Column type='STRING'>
+<Tag></Tag>
+<Label>Profession</Label>
+</Column>
+<Column type='DATERANGE'>
+<Tag></Tag>
+<Label>Dates of Profession</Label>
+<MaximumDate></MaximumDate>
+</Column>
+</GridSpecDetails>
+</Field>
+<Field type='MULTILINE'>
+<Tag>narrative</Tag>
+<Label>Narrative description of events</Label>
+<DefaultValue>What happened in detail is as follows:</DefaultValue></Field>
+<Field type='MULTILINE'>
+<Tag>privateinfo</Tag>
+<Label></Label>
+</Field>
+<ReusableChoices code='RegionChoices' label='Region'><Choice code='R1' label='Region 1'></Choice>
+<Choice code='R2' label='Region 2'></Choice>
+<Choice code='R3' label='Region 3'></Choice>
+</ReusableChoices>
+<ReusableChoices code='CityChoices' label='City'><Choice code='R1.C1' label='City 1'></Choice>
+<Choice code='R1.C2' label='City 2'></Choice>
+<Choice code='R2.C3' label='City 3'></Choice>
+<Choice code='R2.C4' label='City 4'></Choice>
+<Choice code='R3.C5' label='City 5'></Choice>
+<Choice code='R3.C6' label='City 6'></Choice>
+</ReusableChoices>
+</PrivateFieldSpecs>
+
+<FieldValues>
+<Field tag='language'>
+<Value>en</Value>
+</Field>
+<Field tag='author'>
+<Value>Padma</Value>
+</Field>
+<Field tag='organization'>
+<Value>Benetech</Value>
+</Field>
+<Field tag='title'>
+<Value>Custom english fields</Value>
+</Field>
+<Field tag='location'>
+<Value>belmont</Value>
+</Field>
+<Field tag='keywords'>
+<Value></Value>
+</Field>
+<Field tag='eventdate'>
+<Value>Range:0001-01-01,0001-01-01</Value>
+</Field>
+<Field tag='entrydate'>
+<Value>Simple:2012-04-04</Value>
+</Field>
+<Field tag='summary'>
+<Value>testing custom fields</Value>
+</Field>
+<Field tag='publicinfo'>
+<Value></Value>
+</Field>
+<Field tag='summarysection'>
+<Value></Value>
+</Field>
+<Field tag='office'>
+<Value>Region 3 field office</Value>
+</Field>
+<Field tag='BulletinSource'>
+<Value>Other</Value>
+</Field>
+<Field tag='SpecifyOther'>
+<Value>template</Value>
+</Field>
+<Field tag='IntervieweeName'>
+<Value></Value>
+</Field>
+<Field tag='IntervieweeLanguage'>
+<Value>?</Value>
+</Field>
+<Field tag='InterviewDates'>
+<Value>Range:0001-01-01,0001-01-01</Value>
+</Field>
+<Field tag='Anonymous'>
+<Value>0</Value>
+</Field>
+<Field tag='AdditionalInfo'>
+<Value>0</Value>
+</Field>
+<Field tag='Testify'>
+<Value>0</Value>
+</Field>
+<Field tag='EventLocation'>
+<Value>R1</Value>
+</Field>
+<Field tag='peoplesection'>
+<Value></Value>
+</Field>
+<Field tag='VictimInformationGrid'>
+<Value><GridData columns='7'>
+<Row>
+<Column>john</Column>
+<Column>doe</Column>
+<Column>1</Column>
+<Column>Simple:1916-01-01</Column>
+<Column>Male</Column>
+<Column>R1</Column>
+<Column>american</Column>
+</Row>
+<Row>
+<Column>jim</Column>
+<Column>smith</Column>
+<Column>1</Column>
+<Column>Simple:1916-01-01</Column>
+<Column>Male</Column>
+<Column>R1</Column>
+<Column>american</Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='MessageProfession'>
+<Value>If you have information about a person who has had different professions over time, enter multiple rows with the same First and Last Names and show the date ranges for each profession on a separate row.</Value>
+</Field>
+<Field tag='ProfessionHistoryGrid'>
+<Value><GridData columns='4'>
+<Row>
+<Column></Column>
+<Column></Column>
+<Column></Column>
+<Column>Range:0001-01-01,0001-01-01</Column>
+</Row>
+</GridData>
+</Value>
+</Field>
+<Field tag='narrative'>
+<Value>What happened in detail is as follows:</Value>
+</Field>
+<Field tag='privateinfo'>
+<Value></Value>
+</Field>
+</FieldValues>
+</MartusBulletin>
+
+</MartusBulletins>
